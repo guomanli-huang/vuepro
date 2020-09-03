@@ -1,0 +1,79 @@
+{
+  "id": "1931328",
+  "name": "vue",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "2053182",
+      "name": "订单",
+      "font_class": "dingdan",
+      "unicode": "e6e4",
+      "unicode_decimal": 59108
+    },
+    {
+      "icon_id": "8494937",
+      "name": "订单",
+      "font_class": "dingdan1",
+      "unicode": "e636",
+      "unicode_decimal": 58934
+    },
+    {
+      "icon_id": "9303855",
+      "name": "钱",
+      "font_class": "lujing",
+      "unicode": "e612",
+      "unicode_decimal": 58898
+    },
+    {
+      "icon_id": "9995576",
+      "name": "订单",
+      "font_class": "dingdan2",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "13894025",
+      "name": "qianbi",
+      "font_class": "qianbi",
+      "unicode": "e602",
+      "unicode_decimal": 58882
+    },
+    {
+      "icon_id": "13719343",
+      "name": "商铺",
+      "font_class": "shangpu",
+      "unicode": "e61d",
+      "unicode_decimal": 58909
+    },
+    {
+      "icon_id": "5969874",
+      "name": "锁",
+      "font_class": "suo",
+      "unicode": "e60f",
+      "unicode_decimal": 58895
+    },
+    {
+      "icon_id": "6722560",
+      "name": "ren",
+      "font_class": "ren",
+      "unicode": "e63d",
+      "unicode_decimal": 58941
+    },
+    {
+      "icon_id": "7565024",
+      "name": "眼睛",
+      "font_class": "yanjing",
+      "unicode": "e620",
+      "unicode_decimal": 58912
+    },
+    {
+      "icon_id": "9867651",
+      "name": "眼睛",
+      "font_class": "yanjing1",
+      "unicode": "e65b",
+      "unicode_decimal": 58971
+    }
+  ]
+}
