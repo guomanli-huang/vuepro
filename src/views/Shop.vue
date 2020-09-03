@@ -170,6 +170,7 @@ export default {
   },
   created() {
   this.getShopMsg()
+  console.log(11111)
   },
 };
 </script>
